@@ -1,8 +1,7 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
-      <mapping pattern="topkek" type="CLASS" />
-      <mapping pattern="topkek.java" type="PLAIN_TEXT" />
+      <mapping pattern="grocery_list_file" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
