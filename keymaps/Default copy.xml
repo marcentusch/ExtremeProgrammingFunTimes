@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Replace" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+</keymap>
